@@ -6,4 +6,4 @@ metadata:
   name: mykind-sample
 spec:
   # Add fields here
-  foo: x
+  foo: bar
